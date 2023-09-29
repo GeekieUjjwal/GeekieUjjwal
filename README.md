@@ -1,7 +1,7 @@
 - ### 👋 Hey there,
-- 🤠 I’m @geekieujjwal
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning React.js .
+- 🤠 I’m Ujjwal Jaguri ( @geekieujjwal )
+- 👀 Interested in learning new things.
+- 🌱 Currently learning React.js .
 
 <!---
 GeekieUjjwal/GeekieUjjwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
