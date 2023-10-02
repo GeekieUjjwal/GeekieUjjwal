@@ -1,6 +1,7 @@
 - ### 👋 Hey there,
 - 🤠 I’m Ujjwal Jaguri ( @geekieujjwal )
 - 👀 Interested in learning new things.
+- Tech Enthusiast.
 - 🌱 Currently learning React.js .
 
 <!---
