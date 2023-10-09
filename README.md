@@ -2,7 +2,7 @@
 - 🤠 I’m Ujjwal Jaguri ( @geekieujjwal )
 - 👀 Interested in learning new things.
 - Tech Enthusiast.
-- 🌱 Currently learning React.js .
+- 🌱 Currently learning React.js from NeoG.
 
 <!---
 GeekieUjjwal/GeekieUjjwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
