@@ -1,4 +1,4 @@
-- ### 👋 Hey there,
+- ### Hey there,
 - 🤠 I’m Ujjwal Jaguri ( @geekieujjwal )
 - 👀 Interested in learning new things.
 - Tech Enthusiast.
