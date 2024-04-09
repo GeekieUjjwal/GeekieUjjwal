@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ujju__0119" target="blank"><img src="https://img.shields.io/twitter/follow/ujju__0119?logo=twitter&style=for-the-badge" alt="ujju__0119" /></a> </p>
 
-- 🌱 I’m currently working as a **Full Stack Developer** at **oaza.energy**
+- 🌱 I’m currently working as a **Full Stack Developer** at **[Oaza Energy](https://oaza.energy/)**
 
 - 👨‍💻 All of my projects are available at: [Portfolio](https://geekieujjwal.vercel.app/)
 
