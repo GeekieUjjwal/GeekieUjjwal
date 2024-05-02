@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently working as a **Full Stack Developer** at **[Oaza Energy](https://oaza.energy/)**
 
+- I'm learning C++ to do DSA [LINK (DSA Repo)](https://github.com/geekieujjwal/DSA) in that as well as Java side-by-side.
+
 - 👨‍💻 All of my projects are available at: [Portfolio](https://geekieujjwal.vercel.app/)
 
 - 💬 Ask me about: **React, Tailwind, Node.js**
