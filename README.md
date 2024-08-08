@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ujju__0119" target="blank"><img src="https://img.shields.io/twitter/follow/ujju__0119?logo=twitter&style=for-the-badge" alt="ujju__0119" /></a> </p>
 
-- 🌱 I’m currently working as a **Full Stack Developer** at **[Oaza Energy](https://oaza.energy/)**
+- 🌱 I’m currently working as a **Full Stack Developer** at **[Oaza Energy](https://oazaenergy.com/)**
 
 - I'm learning C++ to do DSA [LINK (DSA Repo)](https://github.com/geekieujjwal/DSA) in that as well as Java side-by-side.
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **ujjwaljagurijob@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://www.dropbox.com/scl/fi/66x3ufjdzh59du6kujtmz/Ujjwal-Resume.pdf?rlkey=mntunb1e84n04muv3sriuy238&dl=0)
+- 📄 Know about my experiences: [Resume](https://www.dropbox.com/scl/fi/o8j9sb74fbjt15t7xdsv4/Ujjwal-Resume-24_08_08.pdf?rlkey=gm6iqap5i7kplelmoh5l4565p&st=3maktbrb&dl=0)
 
 - ⚡ Fun fact: **My code has 99 problems, but the user won't find one.**
 
