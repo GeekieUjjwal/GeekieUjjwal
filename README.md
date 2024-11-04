@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **ujjwaljagurijob@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://www.dropbox.com/scl/fi/o8j9sb74fbjt15t7xdsv4/Ujjwal-Resume-24_08_08.pdf?rlkey=gm6iqap5i7kplelmoh5l4565p&st=3maktbrb&dl=0)
+- 📄 Know about my experiences: [Resume](https://www.dropbox.com/scl/fi/np75qp980vrv1ktqs4u47/Ujjwal-Resume-1104.pdf?rlkey=3trln5j5zn68zybpknb5yjsqk&st=zn2et7eq&dl=0)
 
 - ⚡ Fun fact: **My code has 99 problems, but the user won't find one.**
 
